@@ -1,0 +1,2 @@
+# Project-Leadership-initiative-handling-research
+Introduction to the identification, selection, and planning of projects. Specific topics include: definition of project and program, project leader selection, project goals, team selection, organizational structure, work breakdown structures (WBS), scheduling, PERT/Gantt charts, critical path method (CPM), budgeting, decision analysis, risk management, and the monitoring and control of projects. MS Project Management software is applied
